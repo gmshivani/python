@@ -1,0 +1,12 @@
+d1={}
+d1={'name':'shivani','age':21}
+print(d1)
+print(d1['name'])
+print(d1['age'])
+#print(d1['addr'])
+d1["addr"]="hyderabad"
+print(d1)
+d1["addr"]="mallapur"
+print(d1)
+#print(D1)
+print(d1.get("addr"))

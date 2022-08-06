@@ -1,0 +1,10 @@
+l=[1,2,3,4,5]
+l.append(6)
+print(l)
+l1=[1,1,2,3]
+print(l1.count(1))
+l2=[4,5,6]
+l1.extend(l2)
+print(l1)
+l1.insert(4,7)
+print(l1)
